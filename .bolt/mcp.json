@@ -1,8 +1,5 @@
 {
   "mcpServers": {
-    "agent_context_studio": {
-      "enabled": false
-    },
     "context7": {
       "enabled": true
     }

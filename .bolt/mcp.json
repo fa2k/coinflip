@@ -4,7 +4,7 @@
       "enabled": true
     },
     "acs_coinflip": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
